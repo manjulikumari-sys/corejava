@@ -1,6 +1,7 @@
-package com.tansif.encapsulation;
+package com.tnsif.encapsulation;
+
 //demo for encapsulation
-public class Encapsulationdemo {
+public class Encapsulation {
 	
 	int serialnumber;  //data members
 	String name;
@@ -11,7 +12,7 @@ public class Encapsulationdemo {
 	}
 	
 	public static void main(String[] args) {
-		Encapsulationdemo d=new Encapsulationdemo();
+		Encapsulation d=new Encapsulation();
 		d.serialnumber=1;
 		d.name="rashmi";
 		d.age=25;
@@ -20,3 +21,4 @@ public class Encapsulationdemo {
 	}
 
 }
+
