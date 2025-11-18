@@ -9,7 +9,7 @@ public class Conexample {
 	Conexample(int i,int j){
 		System.out.println("constructor with 2 parameter");
 	}
-	Conexample(int i, String g , int w){
+	Conexample(int i, String g , float w){
 		System.out.println("constructor with 3 parameter");
 	}
 	public static void main(String[] args) {

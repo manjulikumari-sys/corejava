@@ -5,14 +5,14 @@ package com.tnsif.finalkeyworddemo;
 //method
 //class
 
-public Final class finaldemo {
+public class Final{
 	
-	final static int a=8;  // u cant change value
+	static int a=8;  // u cant change value
 	
 	static {
-		a=9;
+		a =9;
 	}
-	final void display() { // cant override
+	void display() { // cant override
 		System.out.println("welcome to java");
 	}
 

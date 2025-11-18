@@ -1,6 +1,6 @@
 package com.tnsif.finalkeyworddemo;
 
-public class Demo extends finaldemo{
+public class Demo extends Final{
 	
 	@Override
 	 void display() {

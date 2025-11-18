@@ -4,19 +4,19 @@ public class Rameshdemo extends Mahindrademo {
 
 	@Override
 	public void AIIntegration() {
-		System.out.println("welcome");
+		System.out.println("Welcome");
 		
 	}
 
 	@Override
 	public void Satyellitecomm() {
-		System.out.println("hello world");
+		System.out.println("Hello world");
 		
 	}
 
 	@Override
 	public void Healthmonitoring() {
-		System.out.println(" Good morning");
+		System.out.println("Good morning");
 		
 	}
 	public static void main(String[] args) {

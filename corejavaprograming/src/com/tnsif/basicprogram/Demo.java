@@ -1,4 +1,4 @@
-package com.tansif.basicprogram;
+package com.tnsif.basicprogram;
 
 public class Demo {
 	public static void main(String[] args) {
@@ -7,3 +7,4 @@ public class Demo {
 	
 
 }
+

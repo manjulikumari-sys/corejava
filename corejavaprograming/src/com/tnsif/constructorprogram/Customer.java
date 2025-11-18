@@ -2,7 +2,6 @@ package com.tnsif.constructorprogram;
 
 public class Customer {
 
-public class Customer {
 	
 	private String Customnername;
 	
