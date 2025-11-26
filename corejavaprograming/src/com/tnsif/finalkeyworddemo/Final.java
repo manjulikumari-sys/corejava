@@ -7,12 +7,12 @@ package com.tnsif.finalkeyworddemo;
 
 public class Final{
 	
-	static int a=8;  // u cant change value
+	static int a=8;  // u cannot change value
 	
 	static {
 		a =9;
 	}
-	void display() { // cant override
+	void display() { // cannot override
 		System.out.println("welcome to java");
 	}
 

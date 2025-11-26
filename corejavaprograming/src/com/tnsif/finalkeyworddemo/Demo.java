@@ -2,8 +2,7 @@ package com.tnsif.finalkeyworddemo;
 
 public class Demo extends Final{
 	
-	@Override
-	 void display() {
+	void display(){
 		System.out.println("welcome to python");
 	}
 
