@@ -3,6 +3,7 @@ package com.tnsif.exceptionhandlingprogram;
 
 import java.io.IOException;
 
+
 public class Throwsdemo {
 	//rashmi
 	void m1()// no exception
